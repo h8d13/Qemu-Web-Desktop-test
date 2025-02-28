@@ -18,9 +18,10 @@ Where the machines live:
 To insert a new one simply put it's file into the downloads folder:
 (You can use `sudo mv source destination`)
 
-/var/lib/qemu-web-desktop/machines/downloads/deb.iso/
+`/var/lib/qemu-web-desktop/machines/downloads/deb.iso/<YOURISOORCQCOW2HERE>`
 
 And inside it, your iso. Yes this is confusing :D 
+
 Then run `sudo qwdctl download`
 But then it will create a link as such:
 
