@@ -49,6 +49,13 @@ Enter an ID and click create:
 ![utli](https://github.com/user-attachments/assets/9c4bb95b-588e-4afd-824a-308462440a5c)
 
 
+There is also aneat config.pl file with many customization settings:
+And my favourite: 
+
+```config{config_script} = "script.sh, script2.sh";``` 
+
+And if you're a qemu user, you know how crazy you can go in scripting. 
+
 
 
 
