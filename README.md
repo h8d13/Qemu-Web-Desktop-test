@@ -34,6 +34,7 @@ Find the other config files: `/etc/qemu-web-desktop`
 `sudo nano machines.conf`
 
 Read the top instructions they are explained nicely. We can simply add:
+Because we don't specify a URL it excpects you to have done this set-up manually.
 ```
 [deb.iso]
 description=Debian
