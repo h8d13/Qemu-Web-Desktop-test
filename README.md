@@ -53,7 +53,7 @@ Enter an ID and click create:
 There is also aneat config.pl file with many customization settings:
 And my favourite: 
 
-```config{config_script} = "script.sh, script2.sh";``` 
+```config{config_script} = "script.sh,script2.sh";``` 
 
 And if you're a qemu user, you know how crazy you can go in scripting. 
 
